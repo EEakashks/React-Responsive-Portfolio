@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Responsive-Portfolio/static/css/main.1c96edd5.css",
+    "main.js": "/React-Responsive-Portfolio/static/js/main.8cb29465.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Responsive-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/jungle1.png": "/React-Responsive-Portfolio/static/media/jungle1.6acfde5f8f721fddc8ee.png",
+    "static/media/background.png": "/React-Responsive-Portfolio/static/media/background.555355636d4aa7477a61.png",
+    "static/media/pro1.png": "/React-Responsive-Portfolio/static/media/pro1.8f288f4553248c09c25a.png",
+    "static/media/jungle3.png": "/React-Responsive-Portfolio/static/media/jungle3.8e16bc1b31bd644368ee.png",
+    "static/media/pro2.png": "/React-Responsive-Portfolio/static/media/pro2.9390ab270cb64a468d22.png",
+    "static/media/mountains.png": "/React-Responsive-Portfolio/static/media/mountains.e6f15f56e54aecf05351.png",
+    "static/media/man.png": "/React-Responsive-Portfolio/static/media/man.5b8a08a5ae8d6d9cb794.png",
+    "static/media/jungle4.png": "/React-Responsive-Portfolio/static/media/jungle4.5dd3614f3cf328e25037.png",
+    "static/media/jungle2.png": "/React-Responsive-Portfolio/static/media/jungle2.2cbe7c6a645d4ec951ab.png",
+    "static/media/logo.png": "/React-Responsive-Portfolio/static/media/logo.cb134b61f6d6375cb528.png",
+    "static/media/jungle5.png": "/React-Responsive-Portfolio/static/media/jungle5.19098903519e7f03ccdc.png",
+    "index.html": "/React-Responsive-Portfolio/index.html",
+    "main.1c96edd5.css.map": "/React-Responsive-Portfolio/static/css/main.1c96edd5.css.map",
+    "main.8cb29465.js.map": "/React-Responsive-Portfolio/static/js/main.8cb29465.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Responsive-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c96edd5.css",
+    "static/js/main.8cb29465.js"
+  ]
+}
